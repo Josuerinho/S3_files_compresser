@@ -70,4 +70,4 @@ Basic syntax:
 
 ## License
 
-This script is provided "as is", without warranty of any kind.
+This project is licensed under the [MIT License](LICENSE).
