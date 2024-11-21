@@ -59,6 +59,7 @@ Basic syntax:
 - Use the `-n` flag first to preview what the script will do
 - Ensure your AWS credentials have appropriate permissions for the S3 bucket
 - The temporary directory must have sufficient space for downloaded files
+- If run from an AWS EC2 instance, downloading charges from the S3 bucket aren't applied (recommended).
 
 ## Error Handling
 
